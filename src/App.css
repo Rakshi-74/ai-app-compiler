@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f5f7fb;
+  margin: 0;
+}
+
+.container {
+  max-width: 1000px;
+  margin: auto;
+  padding: 30px;
+}
+
+.title {
+  text-align: center;
+  color: #1e293b;
+}
+
+textarea {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+}
+
+button {
+  background: #2563eb;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+pre {
+  background: white;
+  padding: 15px;
+  border-radius: 8px;
+  overflow-x: auto;
+}

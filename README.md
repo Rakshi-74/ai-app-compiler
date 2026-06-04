@@ -14,3 +14,25 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# AI-Powered Business Application Generator
+
+An AI-powered platform that generates business applications using natural language prompts.
+
+## Live Demo
+🔗 App Link: https://your-app-link.com
+
+## GitHub Repository
+🔗 Repository: https://github.com/yourusername/repository-name
+
+## Features
+- Natural language app generation
+- Dashboard creation
+- CRUD operations
+- Authentication system
+- Responsive UI
+
+## Technologies Used
+- React
+- JavaScript
+- HTML/CSS
+- AI APIs

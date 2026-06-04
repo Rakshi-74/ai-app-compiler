@@ -19,10 +19,10 @@ If you are developing a production application, we recommend using TypeScript wi
 An AI-powered platform that generates business applications using natural language prompts.
 
 ## Live Demo
-🔗 App Link: https://your-app-link.com
+🔗 App Link: https://ai-app-compiler-psi.vercel.app/
 
 ## GitHub Repository
-🔗 Repository: https://github.com/yourusername/repository-name
+🔗 Repository: https://github.com/Rakshi-74/ai-app-compiler
 
 ## Features
 - Natural language app generation
